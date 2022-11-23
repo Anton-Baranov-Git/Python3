@@ -9,6 +9,7 @@ while True:
     except:
         print("Неправильный ввод, попробуйте снова")
 
+
 if x == 0 and y != 0:
     print('Точка находится на осе x')
 elif y == 0 and x != 0:

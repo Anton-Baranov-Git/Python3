@@ -14,4 +14,5 @@ def proof():
         print("Утверждение ложно")
 
 
+
 proof()

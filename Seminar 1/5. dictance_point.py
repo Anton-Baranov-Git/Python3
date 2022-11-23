@@ -12,6 +12,7 @@ while True:
         print("Неправильный ввод, попробуйте снова")
 
 
+
 def get_distance(x_1, x_2, y_1, y_2):
     distance = (((y_1 - x_1) ** 2) + ((y_2 - x_2) ** 2)) ** (0.5) 
     distance = int(distance * 100)

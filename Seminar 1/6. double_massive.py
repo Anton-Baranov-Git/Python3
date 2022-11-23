@@ -15,6 +15,7 @@ while True:
         print("Ошибка ввода, введите количество строк")
 
 
+
 def input_number_array(): # создаем
     mas = []
     for i in range(size_i):

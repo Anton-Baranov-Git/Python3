@@ -16,6 +16,7 @@ def input_num():
             
     return plane
 
+
 def get_cordinates(num):
     if num == 1:
         print("'Х' от 0 до + бесконечности, 'Y' от 0 до + бесконечности")

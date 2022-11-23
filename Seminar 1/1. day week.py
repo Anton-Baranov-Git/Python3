@@ -19,5 +19,6 @@ def show_day_week(number): # показываем ответ
     else:
         print("Данный день, не является выходным")
         
+        
                 
 show_day_week(input_number())
