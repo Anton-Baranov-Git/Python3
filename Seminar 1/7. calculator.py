@@ -16,6 +16,7 @@ div — целочисленное деление.
 number1 = int(input("Введите первое число: "))
 number2 = int(input("Введите второе число: "))
 
+
 def ActionNumber(num1, num2):
     while True:
         action = input("Какое действие будем производить: ")
